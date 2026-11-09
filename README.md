@@ -19,7 +19,7 @@
 
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/OVDJE-IDE-LINK-VIDEA
+[https://github.com/user-attachments/assets/bdaf14e0-776b-4cd3-93f0-c87dfb3d1417]
 
 ---
 
@@ -161,8 +161,3 @@ flutter run
 > To run it on a physical device, replace it with the IP address of the computer running the backend.
 
 ---
-
-
-
-
-https://github.com/user-attachments/assets/bdaf14e0-776b-4cd3-93f0-c87dfb3d1417
