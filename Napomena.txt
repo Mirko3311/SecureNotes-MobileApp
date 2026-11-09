@@ -1,0 +1,4 @@
+Pokrenuti skriptu (tabele može kreirati i sam server pri pokretanu - spring.jpa.hibernate.ddl-auto = update)
+Podesiti varijable okruženja:
+JWT_SECRET_BASE64  - ključ za potpisivanje JWT tokena
+TOTP_ENCRYPTION_KEY_BASE64 ključ za AES-GCM šifrovanje TOTP tajni
